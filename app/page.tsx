@@ -11,7 +11,7 @@ export default function Home() {
         <div className='flex gap-[60px]'>
 
           {/* Фильтрация */}
-          <div className='w-250px'>
+          <div className='w-[250px]'>
             <Filters />
           </div>
 
